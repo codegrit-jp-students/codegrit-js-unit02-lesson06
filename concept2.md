@@ -4,8 +4,8 @@
 
 今回使用するHTMLフォームはこちらです。
 
-*index.html*
 ```html
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,7 +44,6 @@
 
 フォーム提出の流れの部分に書いた通り、まずは送信ボタンに対するクリックイベントに対応するためaddEventListnerを使います。
 
-*/src/index.js*
 ```javascript
 /* src/index.js */
 

@@ -2,11 +2,9 @@
 
 フォームについてはHTMLのレッスンで既に学んできました。このレッスンでは、Javascriptを利用してフォームに入力された情報を受け取り、入力されたデータが妥当かどうかを確認し(バリデーション)、最後にデータストアに保存するまでの流れを説明していきます。今回は簡単に、ログインフォームを作ってみます。
 
-
 ## スターターファイル
 
 - [codegrit-jp-students/js-unit02-lesson06-sample01-starter](https://github.com/codegrit-jp-students/js-unit02-lesson06-sample01-starter)
-
 
 ## フォーム提出の流れ
 
